@@ -1,0 +1,1 @@
+STM32CubeG0\Projects\NUCLEO-G031K8\Templates
