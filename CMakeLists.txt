@@ -15,8 +15,8 @@ include("cmake/common.cmake")
 include("cmake/clang-arm.cmake")
 
 set_system()
-use_arm_none_eabi_gcc()
-# use_clang()
+# use_arm_none_eabi_gcc()
+use_clang()
 set_common()
 
 project(stm32g031k8tx C ASM)
